@@ -5,6 +5,13 @@ mkdir
 rm 
 rm -r 
 nano 
+head 
+tail 
+cat 
+chmod 
+obj 
+kill 
+sysinfo 
 //commands for git/github 
 sudo apt install git/gh : install git 
 echo "# namerepo " >> README.md 
