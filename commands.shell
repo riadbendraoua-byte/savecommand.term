@@ -12,6 +12,25 @@ chmod
 obj 
 kill 
 sysinfo 
+head
+tail
+rmdir
+cp
+mv
+echo  display line of text
+grep filter
+find
+diff 
+tar
+zip
+unzip
+chown
+//process
+ps
+kill
+top
+//admin 
+sudo
 //commands for git/github 
 sudo apt install git/gh : install git 
 echo "# namerepo " >> README.md 
