@@ -8,7 +8,7 @@ nano
 head 
 tail 
 cat 
-chmod 
+chmod numbers or u+r : user+read
 obj 
 kill 
 sysinfo 
