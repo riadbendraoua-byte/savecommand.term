@@ -60,3 +60,6 @@ sudo add-apt-repository ppa:..../boot-repair
 sudo apt update
 sudo apt install -y boot-repair
 boot-repair
+//memory management 
+htop
+free -h display avaible memo
