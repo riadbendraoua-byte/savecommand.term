@@ -63,3 +63,8 @@ boot-repair
 //memory management 
 htop
 free -h display avaible memo
+// tools 
+exiftool
+pip install qrcode[pil]
+sudo apt install python3-pip
+pip install gTTs
